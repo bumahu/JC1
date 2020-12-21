@@ -28,3 +28,4 @@ public class test1 {
 		
 	}
 }
+/*/ c= /*/
